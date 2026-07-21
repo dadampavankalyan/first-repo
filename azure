@@ -1,0 +1,9 @@
+Microsoft Azure is a comprehensive cloud computing platform offering a wide range of services, including computing, storage, networking, and databases. It enables businesses and developers to build, deploy, and manage applications through Microsoft-controlled data centers. Below are key aspects of Azure:
+
+Core Features
+
+Azure provides services across Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS). It supports multiple programming languages, frameworks, and tools, making it highly versatile for developers. Azure also ensures data resilience with distributed data centers and offers integrated networking for seamless connectivity.
+
+Storage Services
+
+Azure Storage is a secure, scalable service for managing data types like blobs, files, queues, and tables. Features include blob versioning, lifecycle management, and disk storage for archiving or hosting static websites. Azure also supports mounting storage in container apps and managing orphaned disks using PowerShell.
