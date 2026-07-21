@@ -1,0 +1,25 @@
+Compute Services
+Google Cloud Compute Services allow you to run applications on Google's global infrastructure without the need to manage physical hardware.
+
+Key GCP Compute Services
+Introduction to Google Compute Engine
+How to use compute engine to launch and manage virtual machine?
+Google App Engine
+Google Kubernetes Engine
+Cloud Functions in GCP
+Cloud Run
+Google Cloud Function with Python
+Difference Between Google Cloud Compute Engine and App Engine
+Storage and Database Services
+Google Cloud offers easy and secure storage and database services to help manage your data. You can store files, backups, or large datasets using different types of storage and use managed databases for your apps.
+
+Google Cloud Storage
+Google Persistent Disk & Google Filestore Services
+Google Cloud SQL
+Google Cloud Spanner
+Cloud Datastore
+Introduction to Google Cloud Bigtable
+Google File System
+Introduction to Firebase Cloud Storage
+GCP MemoryStore
+Networking Service
